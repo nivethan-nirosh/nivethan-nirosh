@@ -11,7 +11,7 @@
 
 - 🎓 Pursuing **B.Sc. (Hons) in Information Technology**
 - 🔭 Building real-world apps using AI, microservices, and cloud infrastructure
-- 🌱 Exploring **Machine Learning**, **FastAPI**, and **Cloud-Native Patterns**
+- 🌱 Exploring **Machine Learning**, and **Cloud-Native Patterns**
 - 👯 Open to **internships, remote projects, and collaborations**
 - 📫 Reach me at: [nivethanrajendran@gmail.com](mailto:nivethanrajendran@gmail.com)  
 - 🌐 Portfolio: [nivethanrajendran.online](https://nivethanrajendran.online)  
