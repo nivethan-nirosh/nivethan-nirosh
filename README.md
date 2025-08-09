@@ -14,7 +14,6 @@
 - 🌱 Exploring **Machine Learning**, and **Cloud-Native Patterns**
 - 👯 Open to **internships, remote projects, and collaborations**
 - 📫 Reach me at: [nivethanrajendran@gmail.com](mailto:nivethanrajendran@gmail.com)  
-- 🌐 Portfolio: [nivethanrajendran.online](https://nivethanrajendran.online)  
 - 💼 LinkedIn: [linkedin.com/in/nivethan-rajendran15](https://lk.linkedin.com/in/nivethan-rajendran15)
 
 ---
