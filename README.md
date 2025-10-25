@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <span style="color:#36BCF7;">Nivethan Rajendran 👋</span></h1>
+<h1 align="center">Hey there, I'm <span style="color:#9B59B6;">Nivethan Rajendran 👋</span></h1>
 <h3 align="center">Full Stack Developer | Cloud Engineer in the Making | AI-Driven Innovator</h3>
 
 <p align="center">
@@ -9,9 +9,9 @@
 
 <div align="center">
 
-  <div style="border-radius: 15px; padding: 25px; width: 85%; background: linear-gradient(145deg,#0f2027,#203a43,#2c5364); box-shadow: 0px 0px 25px rgba(54,188,247,0.5);">
+  <div style="border-radius: 15px; padding: 25px; width: 85%; background: linear-gradient(145deg,#4B0082,#6A0DAD,#9B59B6); box-shadow: 0px 0px 25px rgba(155,89,182,0.5);">
     
-  <h2 align="center" style="color:#36BCF7;">👨‍💻 About Me</h2>
+  <h2 align="center" style="color:#D8BFD8;">👨‍💻 About Me</h2>
   
   <p align="center" style="color:#EAEAEA; font-size:16px; line-height:1.6;">
   I’m an <b>IT Undergraduate</b> passionate about transforming ideas into <b>AI-powered, cloud-native systems</b> that scale.<br><br>
@@ -23,7 +23,7 @@
   
   <p align="center">
     <a href="mailto:nivethanrajendran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/nivethan-rajendran15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/nivethan-rajendran15"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=flat&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/nivethan-nirosh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   </p>
 
@@ -38,7 +38,7 @@
 #### 🧠 Backend & APIs
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-9B59B6?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
 
 #### 🎨 Frontend Craft
@@ -48,20 +48,20 @@
 
 #### 📊 Data & AI
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-9B59B6?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FE9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-9B59B6?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-9B59B6?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-9B59B6?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9B59B6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-9B59B6?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Craftsman;Cloud+Engineer+in+the+Making;AI+Driven+Developer;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=9B59B6&center=true&vCenter=true&width=600&lines=Full+Stack+Craftsman;Cloud+Engineer+in+the+Making;AI+Driven+Developer;Open+Source+Contributor" />
 
 <table>
 <tr>
@@ -107,7 +107,7 @@
 
 <p align="center">
   <a href="mailto:nivethanrajendran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/nivethan-rajendran15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/nivethan-rajendran15"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/nivethan-nirosh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
