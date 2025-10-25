@@ -1,170 +1,122 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Nivethan%20Rajendran&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Architecting%20Scalable%20Solutions%20|%20Full%20Stack%20|%20Cloud%20Native&descAlignY=55&descSize=18"/>
-</p>
+<h1 align="center">Hey there, I'm <span style="color:#36BCF7;">Nivethan Rajendran 👋</span></h1>
+<h3 align="center">Full Stack Developer | Cloud Engineer in the Making | AI-Driven Innovator</h3>
 
 <p align="center">
-  <a href="mailto:nivethanrajendran@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/nivethan-rajendran15">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nivethan-nirosh&style=for-the-badge&color=blue"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Production-Ready+Systems;Building+AI-Powered+Solutions;Designing+Scalable+Cloud+Infrastructures;Learning%2C+Building%2C+and+Improving+Daily" alt="Typing SVG" />
 </p>
 
 ---
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 👨‍💻 About Me
-
-🎓 **IT Undergraduate** | B.Sc. (Hons) Information Technology  
-🌍 Based in **Sri Lanka** 🇱🇰  
-💡 Passionate about **Distributed Systems & AI**  
-🔥 Building **production-ready, scalable applications**  
-🎯 Open for **Internships & Collaborations**
-
-<br>
-
-### 🎯 What I Do
-
-```yaml
-role: Full Stack Developer & Cloud Engineer
-focus:
-  - Microservices Architecture
-  - Event-Driven Systems
-  - Machine Learning Integration
-  - Cloud-Native Development
-currently_exploring:
-  - Advanced Kafka Patterns
-  - Kubernetes Orchestration
-  - MLOps Pipelines
-```
-
-<br clear="right"/>
-
----
-
-<h2 align="center">🛠️ Technology Stack</h2>
 
 <div align="center">
 
-### **Backend Development**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  <div style="border-radius: 15px; padding: 25px; width: 85%; background: linear-gradient(145deg,#0f2027,#203a43,#2c5364); box-shadow: 0px 0px 25px rgba(54,188,247,0.5);">
+    
+  <h2 align="center" style="color:#36BCF7;">👨‍💻 About Me</h2>
+  
+  <p align="center" style="color:#EAEAEA; font-size:16px; line-height:1.6;">
+  I’m an <b>IT Undergraduate</b> passionate about transforming ideas into <b>AI-powered, cloud-native systems</b> that scale.<br><br>
+  I love blending <b>Machine Learning</b>, <b>Cloud Engineering</b>, and <b>Full Stack Development</b> to craft smart and resilient applications.<br><br>
+  🚀 Currently exploring <b>AWS Infrastructure</b>, <b>Microservices</b>, and <b>Distributed System Design</b>.<br>
+  🌍 Open to <b>software engineering internships</b>, <b>collaborations</b>, and <b>open-source contributions</b>.<br><br>
+  <i>“Every build is a chance to outgrow the last version of myself.”</i>
+  </p>
+  
+  <p align="center">
+    <a href="mailto:nivethanrajendran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/nivethan-rajendran15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/nivethan-nirosh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  </p>
+
+  </div>
+
+</div>
+
+---
+
+### ⚙️ Tech Arsenal
+
+#### 🧠 Backend & APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
 
-### **Message Brokers & Event Streaming**
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### **Frontend Development**
+#### 🎨 Frontend Craft
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 📊 Data & AI
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FE9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-</div>
+---
+
+### 🧩 What I’m Building
+
+🧠 **AI-Powered Learning Assistant** – Replit-based app for intelligent Q&A and progress tracking  
+☁️ **Auto-Scaling AWS Infrastructure** – EC2 + Load Balancer + Dockerized microservices  
+💬 **AI-Driven Customer Support Portal** – Spring Boot + Next.js + Kafka + Supabase + Kubernetes  
+
+> “The best code isn’t written once — it evolves with every iteration.”
 
 ---
 
-<h2 align="center">📈 GitHub Statistics</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nivethan-nirosh&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nivethan-nirosh&theme=radical&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=nivethan-nirosh&custom_title=Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FE428E&title_color=FFFFFF&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivethan-nirosh&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&langs_count=8" />
-</p>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nivethan-nirosh&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
-
----
-
-<h2 align="center">💼 Open For Opportunities</h2>
+### ⚡ Developer Dashboard
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[💡 Your Company] -->|Needs| B[Talented Developer]
-    B -->|Has| C[Full Stack Skills]
-    B -->|Has| D[Cloud Expertise]
-    B -->|Has| E[ML Knowledge]
-    C --> F[🎯 Let's Connect!]
-    D --> F
-    E --> F
-    style A fill:#ff6b6b
-    style F fill:#4ecdc4
-    style B fill:#95e1d3
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Craftsman;Cloud+Engineer+in+the+Making;AI+Driven+Developer;Open+Source+Contributor" />
 
-</div>
-
-<p align="center">
-  <b>🚀 Internships | 🤝 Remote Projects | 🌟 Open Source Contributions</b>
-</p>
-
-<p align="center">
-  <a href="mailto:nivethanrajendran@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/nivethan-rajendran15">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
+<table>
+<tr>
+<td>
   
-### 💭 Quote of the Day
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🌩️ <b>Cloud Native:</b> AWS · Docker · Kubernetes  
+🤖 <b>AI & ML:</b> Python · TensorFlow · Scikit-learn  
+💻 <b>Full Stack:</b> React · Next.js · Spring Boot  
+🗄️ <b>Data:</b> PostgreSQL · Supabase · MongoDB  
+
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nivethan-nirosh&theme=react&hide_border=true" width="400px"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+### 🌐 Let’s Connect
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
+  <a href="mailto:nivethanrajendran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/nivethan-rajendran15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/nivethan-nirosh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/nivethan-nirosh">Nivethan Rajendran</a> - Let's build something amazing together!</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
