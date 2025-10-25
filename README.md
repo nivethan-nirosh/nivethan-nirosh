@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <span style="color:#9D4EDD;">Nivethan Rajendran</span></h1>
+<h1 align="center">Hey there, I'm <span style="color:#9D4EDD;">Nivethan </span>Rajendran</h1>
 <h3 align="center">Full Stack Developer | Cloud Engineer in the Making | AI-Driven Innovator</h3>
 
 <p align="center">
