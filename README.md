@@ -33,31 +33,64 @@
 
 ---
 
-## 🧠 Technical Stack
+##  Technical Stack
 
-### ⚙️ Backend & APIs  
+###  Backend & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,express,fastapi,flask" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="45"/><br>Spring Boot</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask</td>
+    </tr>
+  </table>
 </p>
 
-### 💻 Frontend Development  
+###  Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="45"/><br>Angular</td>
+    </tr>
+  </table>
 </p>
 
-### 🤖 Data Science & AI  
+###  Data Science & AI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br>Scikit-learn</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="45"/><br>Pandas</td>
+    </tr>
+  </table>
 </p>
 
-### ☁️ Cloud & DevOps  
+###  Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"/><br>AWS</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="45"/><br>Kubernetes</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="45"/><br>GitHub Actions</td>
+    </tr>
+  </table>
 </p>
 
-### 🗄️ Databases  
+###  Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="45"/><br>Supabase</td>
+    </tr>
+  </table>
 </p>
 
 ---
