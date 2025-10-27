@@ -33,35 +33,32 @@
 
 ---
 
-### Technical Stack
+## 🧠 Technical Stack
 
-#### Backend & APIs
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
+### ⚙️ Backend & APIs  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,express,fastapi,flask" />
+</p>
 
-#### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### 💻 Frontend Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
+</p>
 
-#### Data Science & AI
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🤖 Data Science & AI  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas" />
+</p>
 
-#### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FE9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### ☁️ Cloud & DevOps  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions" />
+</p>
 
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
+</p>
 
 ---
 
