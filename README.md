@@ -35,116 +35,98 @@
 
 ##  Technical Stack
 
-<style>
-  .tech-box {
-    border-radius: 12px;
-    padding: 12px 15px;
-    border: 1px solid #ddd;
-    display: inline-block;
-    margin: 8px;
-    transition: 0.3s;
-  }
-  .tech-box:hover {
-    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
-  }
-  .tech-icon {
-    width: 45px;
-    display: block;
-    margin-bottom: 5px;
-  }
-</style>
-
 ###  Backend & APIs
 <p align="left">
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=spring" width="45" style="display:block; margin-bottom:5px;" alt="Spring Boot"/>
     Spring Boot
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=express" alt="Express.js"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=express" width="45" style="display:block; margin-bottom:5px;" alt="Express.js"/>
     Express.js
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="45" style="display:block; margin-bottom:5px;" alt="FastAPI"/>
     FastAPI
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=flask" alt="Flask"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=flask" width="45" style="display:block; margin-bottom:5px;" alt="Flask"/>
     Flask
   </div>
 </p>
 
 ###  Frontend Development
 <p align="left">
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=react" alt="React"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=react" width="45" style="display:block; margin-bottom:5px;" alt="React"/>
     React
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" style="display:block; margin-bottom:5px;" alt="Next.js"/>
     Next.js
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=angular" alt="Angular"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=angular" width="45" style="display:block; margin-bottom:5px;" alt="Angular"/>
     Angular
   </div>
 </p>
 
 ###  Data Science & AI
 <p align="left">
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=python" width="45" style="display:block; margin-bottom:5px;" alt="Python"/>
     Python
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="45" style="display:block; margin-bottom:5px;" alt="TensorFlow"/>
     TensorFlow
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=sklearn" width="45" style="display:block; margin-bottom:5px;" alt="Scikit-learn"/>
     Scikit-learn
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=pandas" alt="Pandas"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=pandas" width="45" style="display:block; margin-bottom:5px;" alt="Pandas"/>
     Pandas
   </div>
 </p>
 
 ###  Cloud & DevOps
 <p align="left">
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=aws" width="45" style="display:block; margin-bottom:5px;" alt="AWS"/>
     AWS
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=docker" width="45" style="display:block; margin-bottom:5px;" alt="Docker"/>
     Docker
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="45" style="display:block; margin-bottom:5px;" alt="Kubernetes"/>
     Kubernetes
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=githubactions" width="45" style="display:block; margin-bottom:5px;" alt="GitHub Actions"/>
     GitHub Actions
   </div>
 </p>
 
 ###  Databases
 <p align="left">
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=postgres" width="45" style="display:block; margin-bottom:5px;" alt="PostgreSQL"/>
     PostgreSQL
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45" style="display:block; margin-bottom:5px;" alt="MongoDB"/>
     MongoDB
   </div>
-  <div class="tech-box">
-    <img class="tech-icon" src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/>
+  <div style="border-radius:12px; padding:12px 15px; border:1px solid #ddd; display:inline-block; margin:8px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=supabase" width="45" style="display:block; margin-bottom:5px;" alt="Supabase"/>
     Supabase
   </div>
 </p>
+
 
 
 ---
