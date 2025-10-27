@@ -35,63 +35,117 @@
 
 ##  Technical Stack
 
+<style>
+  .tech-box {
+    border-radius: 12px;
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    display: inline-block;
+    margin: 8px;
+    transition: 0.3s;
+  }
+  .tech-box:hover {
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+  }
+  .tech-icon {
+    width: 45px;
+    display: block;
+    margin-bottom: 5px;
+  }
+</style>
+
 ###  Backend & APIs
 <p align="left">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="45"/><br>Spring Boot</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express.js</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask</td>
-    </tr>
-  </table>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/>
+    Spring Boot
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=express" alt="Express.js"/>
+    Express.js
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
+    FastAPI
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=flask" alt="Flask"/>
+    Flask
+  </div>
 </p>
 
 ###  Frontend Development
 <p align="left">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="45"/><br>Angular</td>
-    </tr>
-  </table>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=react" alt="React"/>
+    React
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
+    Next.js
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=angular" alt="Angular"/>
+    Angular
+  </div>
 </p>
 
 ###  Data Science & AI
 <p align="left">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br>Scikit-learn</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="45"/><br>Pandas</td>
-    </tr>
-  </table>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=python" alt="Python"/>
+    Python
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
+    TensorFlow
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn"/>
+    Scikit-learn
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=pandas" alt="Pandas"/>
+    Pandas
+  </div>
 </p>
 
 ###  Cloud & DevOps
 <p align="left">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"/><br>AWS</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="45"/><br>Kubernetes</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="45"/><br>GitHub Actions</td>
-    </tr>
-  </table>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
+    AWS
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+    Docker
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/>
+    Kubernetes
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/>
+    GitHub Actions
+  </div>
 </p>
 
 ###  Databases
 <p align="left">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="45"/><br>Supabase</td>
-    </tr>
-  </table>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+    PostgreSQL
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+    MongoDB
+  </div>
+  <div class="tech-box">
+    <img class="tech-icon" src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/>
+    Supabase
+  </div>
 </p>
+
 
 ---
 
